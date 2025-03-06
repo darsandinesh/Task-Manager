@@ -1,0 +1,19 @@
+/* Home Page Styles */
+.homepage {
+    text-align: center;
+  }
+  
+  .content {
+    margin: 20px;
+  }
+  
+  h1 {
+    font-size: 32px;
+    margin-bottom: 10px;
+  }
+  
+  p {
+    font-size: 18px;
+    color: #555;
+  }
+  
